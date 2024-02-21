@@ -1,0 +1,8 @@
+Meeting Invitation for {FIRST NAME}
+
+Hi {FIRST NAME},
+
+I would like to invite you to a meeting to discuss your company {COMPANY NAME}...
+
+Best regards,
+Jeetu
