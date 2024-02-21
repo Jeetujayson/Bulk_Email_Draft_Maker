@@ -197,7 +197,7 @@ def credentials_upload(e: events.UploadEventArguments):
     cont = dialog.open()
     print(credentials)
 
-ui.label('Upload Email & App Password as .txt file')
+ui.label('Upload Sender Email & App Password as .txt file')
 ui.upload(on_upload=credentials_upload).props('accept=.txt').classes('max-w-full')
 
 
